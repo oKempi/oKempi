@@ -3,6 +3,11 @@ and I am learning Python
 <br>
 I'm still learning so be nice ;) 
 
+<br>
+
+- 📫You can find me on discord under the name Kempi1111
+- 
+
 <a href="https://app.daily.dev/okempi"><img src="https://api.daily.dev/devcards/7c075a5271484af3af4882ede9211bfa.png?r=9sk" width="400" alt="Jakub Kvapil's Dev Card"/></a>
 
 <!--
@@ -20,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](github-metrics.svg)
+<!-- ![Metrics](github-metrics.svg)
