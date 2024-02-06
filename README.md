@@ -1,4 +1,6 @@
-### Hi there 👋
+### :D
+
+<a href="https://app.daily.dev/okempi"><img src="https://api.daily.dev/devcards/7c075a5271484af3af4882ede9211bfa.png?r=9sk" width="400" alt="Jakub Kvapil's Dev Card"/></a>
 
 <!--
 **oKempi/oKempi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
