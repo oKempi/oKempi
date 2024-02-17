@@ -1,7 +1,7 @@
 ### Hello I'm oKempi
 and I am learning Python
 <br>
-I'm still learning so be nice ;) 
+I'm still learning, so be nice ;) 
 
 <br>
 
