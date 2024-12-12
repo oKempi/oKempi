@@ -1,5 +1,5 @@
 ### Hello I'm oKempi
-and I am learning Python
+and I am learning Python and Java
 <br>
 I'm still learning, so be nice ;) 
 
