@@ -7,7 +7,7 @@ I'm still learning, so please be nice ;)
 
 - 📫You can find me on Discord under my name Kempi1111
 - 🤔 If you have suggestions for my repos just try to DM me on Discord or put an Issue and pray🙏 that I will see it sometime
-- 
+- I am currently working on a To-Do app in Java (with GUI)
 
 <br>
 <br>
@@ -15,7 +15,8 @@ I'm still learning, so please be nice ;)
 <!--<a href="https://app.daily.dev/okempi"><img src="https://api.daily.dev/devcards/7c075a5271484af3af4882ede9211bfa.png?r=9sk" width="400" alt="Jakub Kvapil's Dev Card"/></a>-->
 ## 🧭 What to do? You can: 
 - check out one of my repositories
-- 
+- leave suggestions for my solutions
+- or just get in touch with me :D
 
 <!--
 **oKempi/oKempi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
