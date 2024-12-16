@@ -11,7 +11,7 @@ I'm still learning, so be nice ;)
 <br>
 <br>
 
-<a href="https://app.daily.dev/okempi"><img src="https://api.daily.dev/devcards/7c075a5271484af3af4882ede9211bfa.png?r=9sk" width="400" alt="Jakub Kvapil's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/okempi"><img src="https://api.daily.dev/devcards/7c075a5271484af3af4882ede9211bfa.png?r=9sk" width="400" alt="Jakub Kvapil's Dev Card"/></a>-->
 ### Also please check out some of my modules (for example Fandle) ;)
 
 <!--
