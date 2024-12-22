@@ -6,7 +6,7 @@ I'm still learning, so please be nice ;)
 <br>
 
 - 📫You can find me on Discord under my name Kempi111
-- 🤔 If you have suggestions for my repos just try to DM me on Discord or put an Issue and pray🙏 that I will see it sometime
+- 🤔 If you have suggestions for my repos just try to DM me on Discord or put an Issue and pray🙏 I get to see it
 - I am currently working on a To-Do app in Java (with GUI) private for now but soon could be public :D
 
 <br>
