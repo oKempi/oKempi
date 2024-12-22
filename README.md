@@ -19,7 +19,7 @@ I'm still learning, so please be nice ;)
 - or just get in touch with me :D
 
 <h1>Some of my stats:</h1>
-https://github-readme-stats.vercel.app/api/top-langs?username=oKempi&show_icons=true&theme=tokyonight&layout=compact
+![oKempi](https://github-readme-stats.vercel.app/api/top-langs?username=oKempi&show_icons=true&theme=tokyonight&layout=compact)
 
 <!--
 **oKempi/oKempi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
