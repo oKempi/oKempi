@@ -4,6 +4,7 @@
 > To learn more about GitHub's account termination policy, please refer to their [termination rules](https://learn-with.github.io/our-commitment-to-a-supportive-community)
 
 <br>
+
 ### Hello I'm oKempi
 and I am learning Python and Java
 <br>
