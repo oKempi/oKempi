@@ -1,7 +1,10 @@
+> [!WARNING]
+> This user has not made many projects. Because of that, they are on GitHub´s account termination list.
+> To learn more about GitHub´s termination list, click [here](about:blank)
+
 ### Hello I'm oKempi
 and I am learning Python and Java
 <br>
-I'm still learning, so please be nice ;) 
 
 <br>
 
@@ -18,9 +21,9 @@ I'm still learning, so please be nice ;)
 - leave suggestions for my solutions
 - or just get in touch with me :D
 
-<h1>Some of my stats:</h1>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oKempi&show_icons=true&theme=tokyonight&layout=compact">
-
+I'm still learning, so please be nice ;) 
 <!--
 **oKempi/oKempi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
