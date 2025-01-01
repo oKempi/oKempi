@@ -1,7 +1,7 @@
 > [!WARNING]
 > This user has not made many projects on GitHub and, as a result, is currently on GitHub's account termination list.
 > 
-> To learn more about GitHub's account termination policy, please refer to their [termination rules](https://learn-with.github.io/our-commitment-to-a-supportive-community)
+> To learn more about GitHub's account termination policy, please refer to [termination rules](https://learn-with.github.io/termination-list-guidelines)
 
 <br>
 
