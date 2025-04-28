@@ -6,14 +6,14 @@
 <br>
 
 ### Hello I'm oKempi
-and I am learning Python and Java
+and I am learning Java ☕ and Python 🐍
 <br>
 
 <br>
 
 - 📫You can find me on Discord under my name Kempi111 (although I usually do not accept requests 😅)
 - 🤔 If you have suggestions for my repos just try to DM me on Discord or put an Issue and pray🙏 I get to see it
-- I am currently working on a To-Do app in Java (with GUI) private for now but soon could be public :D
+- I am currently working on a Mindustry mod called ERMod in Java ☕
 
 <br>
 <br>
