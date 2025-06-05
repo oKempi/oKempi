@@ -13,7 +13,7 @@ and I am learning Java ☕ and Python 🐍
 
 - 📫You can find me on Discord under my name Kempi111 (although I usually do not accept requests 😅)
 - 🤔 If you have suggestions for my repos just try to DM me on Discord or put an Issue and pray🙏 I get to see it
-- I am currently working on a Mindustry mod called ERMod in Java ☕
+- I am currently working on a Mindustry mod called ERMod in Java ☕ (hopefully soon I will feel like the mod is good enough and release it to the public!)
 
 <br>
 <br>
