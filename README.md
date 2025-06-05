@@ -1,5 +1,5 @@
 > [!WARNING]
-> This user has not made many projects on GitHub and, as a result, is currently on GitHub's account termination list.
+> This user has not made enough projects on GitHub and, as a result, is currently on GitHub's account termination list.
 > 
 > To learn more about GitHub's account termination policy, please refer to [termination guidelines](https://learn-with.github.io/termination-list-guidelines)
 
