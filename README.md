@@ -5,15 +5,15 @@
 
 <br>
 
-### Hello I'm oKempi
-and I am learning Java ☕ and Python 🐍
+# Hello I'm oKempi
+and I am learning Java ☕
 <br>
 
 <br>
 
 - 📫You can find me on Discord under my name Kempi111 (although I usually do not accept requests 😅)
 - 🤔 If you have suggestions for my repos just try to DM me on Discord or put an Issue and pray🙏 I get to see it
-- I am currently working on a Mindustry mod called ERMod in Java ☕ (hopefully soon I will feel like the mod is good enough and release it to the public!)
+- I am currently trying to survive school
 
 <br>
 <br>
@@ -26,20 +26,8 @@ and I am learning Java ☕ and Python 🐍
 - or all of the above ⬆️ ;)
 
 <br>
-I'm still learning, so please be nice ;) 
-<!--
-**oKempi/oKempi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me fr:
 
-Here are some ideas to get you started:
+![Nikola Tesla and Albert Einstein](https://tenor.com/view/tesla-and-einstein-luma-ai-gif-14475294631445060178)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ![Metrics](github-metrics.svg)
+<!-- ![Metrics](github-metrics.svg) -->
