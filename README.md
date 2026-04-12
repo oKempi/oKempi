@@ -28,6 +28,6 @@ and I am learning Java ☕
 <br>
 Me fr:
 
-![Nikola Tesla and Albert Einstein](https://tenor.com/view/tesla-and-einstein-luma-ai-gif-14475294631445060178)
+![Nikola Tesla and Albert Einstein](https://media1.tenor.com/m/yOKTxh5m2lIAAAAd/tesla-and-einstein-luma-ai.gif)
 
 <!-- ![Metrics](github-metrics.svg) -->
