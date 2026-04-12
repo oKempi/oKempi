@@ -26,7 +26,6 @@ and I am learning Java ☕ and Python 🐍
 - or all of the above ⬆️ ;)
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oKempi&show_icons=true&theme=tokyonight&layout=compact">
 I'm still learning, so please be nice ;) 
 <!--
 **oKempi/oKempi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
