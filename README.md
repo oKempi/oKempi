@@ -1,30 +1,29 @@
+<!-- Warning -->
 > [!WARNING]
 > This user has not made enough projects on GitHub and, as a result, is currently on GitHub's account termination list.
 > 
 > To learn more about GitHub's account termination policy, please refer to [termination guidelines](https://learn-with.github.io/termination-list-guidelines)
 
-<br>
 
+<!-- Intro -->
 # Hello I'm oKempi
 and I am learning Java ☕
-<br>
-
-<br>
 
 - 📫You can find me on Discord under my name Kempi111 (although I usually do not accept requests 😅)
 - 🤔 If you have suggestions for my repos just try to DM me on Discord or put an Issue and pray🙏 I get to see it
 - I am currently trying to survive school
 
 <br>
+
+<!-- About me rn -->
+Other than surviving school, I'd like to start making my own projects again, so you can expect some 2D games with a custom made engine in Java *(specifically JavaFX)*!
 <br>
+- As of now, I'm thinking about making an RPG game, or some space exploration *- we'll see what how that goes tho ;)*
 
-<!--<a href="https://app.daily.dev/okempi"><img src="https://api.daily.dev/devcards/7c075a5271484af3af4882ede9211bfa.png?r=9sk" width="400" alt="Jakub Kvapil's Dev Card"/></a>-->
 ## 🧭 What to do? 
-**You can:**
-- check out one of my repositories
-- leave your thoughts regarding my solutions
-- or all of the above ⬆️ ;)
+Let's be honest, not much...
 
+<!-- Funny-ass GIF -->
 <br>
 Me fr:
 
