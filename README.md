@@ -25,7 +25,8 @@ Let's be honest, not much...
 
 <!-- Funny-ass GIF -->
 <br>
-Me fr:
+
+## Me fr:
 
 ![Nikola Tesla and Albert Einstein](https://media1.tenor.com/m/yOKTxh5m2lIAAAAd/tesla-and-einstein-luma-ai.gif)
 
