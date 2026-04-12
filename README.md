@@ -18,7 +18,7 @@ and I am learning Java ☕
 <!-- About me rn -->
 Other than surviving school, I'd like to start making my own projects again, so you can expect some 2D games with a custom made engine in Java *(specifically JavaFX)*!
 <br>
-- As of now, I'm thinking about making an RPG game, or some space exploration *- we'll see what how that goes tho ;)*
+- As of now, I'm thinking about making an RPG, or some space exploration game *- we'll see what how that goes tho ;)*
 
 ## 🧭 What to do? 
 Let's be honest, not much...
