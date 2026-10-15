@@ -27,7 +27,7 @@ Let's be honest, not much...
 ## Current project*s*
 *I update this only once a while*
 
-As of now, I'm working on a project with my classmates which we decided to do as our yearly school project. - Custom made AR glasses with RPi 5 and tons of hopium
+As of now, I'm working on a project with my classmates which we decided to do as our yearly school project. - MMO fantasea Minecraft server!
 
 Us fr:
 
@@ -35,8 +35,16 @@ Us fr:
 ![copium](https://forever-storage.streamladder.com/COPIUM.gif) 
 ![copium](https://forever-storage.streamladder.com/COPIUM.gif) 
 ![copium](https://forever-storage.streamladder.com/COPIUM.gif)
+
+*The server:*
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKM1S1U30JwO3wNark-Tx_NhiTl2EQLlLxrl36pPrfzNLH3s14dEBc6g5Q&s=10" style="width:20%; height:auto">
+
 ## Me fr:
 
-![Nikola Tesla and Albert Einstein](https://media1.tenor.com/m/yOKTxh5m2lIAAAAd/tesla-and-einstein-luma-ai.gif)
+![Nikola Tesla and Albert Einstein](https://media1.tenor.com/m/yOKTxh5m2lIAAAAd/tesla-and-einstein-luma-ai.gif) 
+
+
+Nah bro, I'm genuinely geekin with all these images :sob:
 
 <!-- ![Metrics](github-metrics.svg) -->
