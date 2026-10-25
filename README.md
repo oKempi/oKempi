@@ -24,12 +24,6 @@ Other than surviving school, I'd like to start making my own projects again, so 
 ## 🧭 What to do? 
 Let's be honest, not much...
 
-## Currently playing in my head
-
-<div style="border: 3px solid grey; padding: 10px;">
-  <p>random test text</p>
-</div>
-
 ## Current project*s*
 *I update this only once a while*
 
